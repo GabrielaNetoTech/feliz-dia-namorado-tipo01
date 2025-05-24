@@ -124,7 +124,7 @@
             justify-content: center;
             position: relative;
             z-index: 1;
-            background-image: url(files/1000207583.jpg);
+            background-color: #dbd9d948; 
             background-repeat: no-repeat;
             background-size: cover;
         }
